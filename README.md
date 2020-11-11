@@ -1,4 +1,4 @@
-# 3D-pie-chart
+# 3D Pie Chart
 👋 Exemplo de como desenhar o gráfico como se tivesse três dimensões
 
 # Para executar
